@@ -28,3 +28,26 @@ Atiq Hardware is a company that delivers computer hardware & peripheral Manufact
 5. Revenue by Month & Year. 
 6. Top 5 Products. 
 7. Top 5 Customers.
+
+
+💰 PROFIT ANALYSIS:
+
+1. Total Profit Margin 
+2. Profit Margin % by Markets. 
+3. Revenue contribution % by Markets. 
+4. Profit Margin Contribution % by Markets. 
+5. Revenue Trend Month & Yearly. 
+6. Create Table Analysis: Customer name by Revenue, Revenue contribution %, Profit Margin contribution %, Profit Margin %.
+ 
+📊🚀PERFORMANCE ANALYSIS:
+
+1. Profit Margin % by Zone, Markets, Customer name, and Product code. 
+2. Revenue LY, Revenue, by Month & Year, Profit Margin %.
+
+🔍OUTCOMES OF DASHBOARD 📊:
+
+• Implemented a Power BI Dashboard for AtliQ Hardware Sales Trend Analysis! 📈💼
+• The final dashboard is a game-changer, providing a clear view of AtliQ hardware's sales trend. 
+• Users can easily grasp the data and make well-informed decisions.
+
+
